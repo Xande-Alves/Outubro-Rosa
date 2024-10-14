@@ -162,6 +162,10 @@ footer {
     padding: 7px;
     background-color: #FF69B4;
 
+    span {
+        font-weight: bold;
+    }
+
     nav {
         display: inline-block;
         justify-content: space-between;

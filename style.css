@@ -142,6 +142,9 @@ footer {
   padding: 7px;
   background-color: #FF69B4;
 }
+footer span {
+  font-weight: bold;
+}
 footer nav {
   display: inline-block;
   justify-content: space-between;
